@@ -48,42 +48,31 @@
 
 
 
-## 🌟 Interests
-- **Deep-learning**
-- **Back-end**
-  - Serve AI services or etc.
-- **MLOps**
+## 🌟 Interests & Studying
+Wannabe Professional Engineer
+- **ML & DL**
+  - on Computer Vision, NLP, IR, etc.
+- **Back-end, and further to Full-stack**
+  - Goal of long future
+  - Now studying Node.js with Back-end basics
+- **Some Ops**
+  - Goal of long future #2.
+  - I want to serving applications more smoothly
 
 
 
 <br/>
 
-## 🎸 Studying...
-
-
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
-
-
-
+## 🎸 Ongoing...
 
 > [!NOTE]
-> Useful information that users should know, even when skimming content.
+> Some repositories are private to trim codes or be under progress not enough to show.
+> It can be altered languages of projects.
 
-> [!TIP]
-> Helpful advice for doing things better or more easily.
-
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
-
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
-
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
-
+1. [Coding Test Study](https://github.com/hyeonos/CodingTestStudy) - Studying Algorithm using Python, C++ and others
+2. [RollingPaper](https://github.com/hyeonos/RollingPaperPro) - Team, Web Project | HTML, CSS, JS, Node.js, MySQL
+3. [Project TOD-O](https://github.com/hyeonos/Project-TOCALEN) - Web Project | HTML, CSS, JS, Node.js, MySQL
+4. [Scrapper](https://github.com/hyeonos/searchnews-project) - trimming codes and docs...
 
 
 
