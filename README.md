@@ -19,6 +19,8 @@
   
 [![G-mail](https://img.shields.io/badge/📧Gmail-hyeonos248@gmail.com-orange)](hyeonos248@gmail.com)
 [![Velog](https://img.shields.io/badge/✅Velog-velog.io/@sohyeonos248-green)](https://velog.io/@sohyeonos248)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeonos&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/hyeonos)
+
 
 <!-- ### 🛠️ Languages and Stacks 🛠️ -->
 
@@ -27,13 +29,17 @@
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
 <br/>
+<br/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<!--
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+ -->
 <br/>
 <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=Windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
@@ -70,9 +76,12 @@ Wannabe Professional Engineer
 > It can be altered languages of projects.
 
 1. [Coding Test Study](https://github.com/hyeonos/CodingTestStudy) - Studying Algorithm using Python, C++ and others
-2. [RollingPaper](https://github.com/hyeonos/RollingPaperPro) - Team, Web Project | HTML, CSS, JS, Node.js, MySQL
-3. [Project TOD-O](https://github.com/hyeonos/Project-TOCALEN) - Web Project | HTML, CSS, JS, Node.js, MySQL
-4. [Scrapper](https://github.com/hyeonos/searchnews-project) - trimming codes and docs...
+2. [Project TOD-O](https://github.com/hyeonos/Project-TOCALEN) - Web Project | HTML, CSS, JS, Node.js, MySQL
+
+<!-- 4. [RollingPaper](https://github.com/hyeonos/RollingPaperPro) - Team, Web Project | HTML, CSS, JS, Node.js, MySQL
+[Scrapper](https://github.com/hyeonos/searchnews-project) - trimming codes and docs...
+5. [Project TOD-O](https://github.com/hyeonos/Project-TOCALEN) - Web Project | HTML, CSS, JS, Node.js, MySQL -->
+
 
 
 
@@ -99,6 +108,3 @@ Wannabe Professional Engineer
 
 </p>
 
-
-
-<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeonos&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/hyeonos) -->
